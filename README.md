@@ -39,3 +39,7 @@ Classic academic conduits aren't providing Data Scientists -- this talent gap wi
 Please Share and Contribute -- **it's Open Source**!
 
 Follow me on Twitter [@clarecorthell](http://twitter.com/clarecorthell)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/Dawny33/go/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
